@@ -3,7 +3,7 @@
 
 ### Carrier board for MCU, oled and power supply on RVR Sphero
 
-![base plate](1_base.png)
+![base plate](docs/1_base.png)
 
 ### The I2C bus
 
